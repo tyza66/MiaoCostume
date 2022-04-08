@@ -1,0 +1,138 @@
+
+.top {
+	height: 25px;
+	width: 100%;
+	background-color: #FFFFFF;
+}
+.back{
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	background: rgba(4,249,7,0.3);
+}
+.bg{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 400rpx;
+	background: linear-gradient(#E75603, pink);
+}
+.name{
+	position: absolute;
+	width: 100%;
+	height: 200rpx;
+	top: 120rpx;
+}
+.name image{
+	width: 150rpx;
+	height: 150rpx;
+	border-radius: 75rpx;
+	margin-top: 30rpx;
+	margin-left: 30rpx;
+}
+.p1{
+	color: #FFFFFF;
+	font-size: 30rpx;
+	position: absolute;
+	top: 50rpx;
+	left: 200rpx;
+}
+.p2{
+	color: #FFFFFF;
+	font-size: 30rpx;
+	position: absolute;
+	top: 120rpx;
+	left: 200rpx;
+}
+.p3{
+	color: #FFFFFF;
+	font-size: 30rpx;
+	position: absolute;
+	top: 120rpx;
+	left: 350rpx;
+}
+.items{
+	position: absolute;
+	width: 100%;
+	top: 400rpx;
+}
+.item{
+	position: relative;
+	float: left;
+	width: 100%;
+	height: 150rpx;
+	background: #FFFFFF;
+	border-radius: 25rpx;
+	margin-bottom: 35rpx;
+	margin-top: -25rpx;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+.one{
+	width: 120rpx;
+	height: 130rpx;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.one image{
+	width: 60rpx;
+	height: 60rpx;
+}
+.one ._p{
+	font-size: 30rpx;
+}
+.sp{
+	height: 500rpx;
+	position: relative;
+	width: 100%;
+	background: #FFFFFF;
+	border-radius: 25rpx;
+	margin-top: -25rpx;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.sc{
+	width: 95%;
+	height: 150rpx;
+}
+.gm{
+	width: 95%;
+	height: 150rpx;
+}
+.qb{
+	width: 95%;
+	height: 150rpx;
+}
+.pp1{
+	width: 100%;
+	height: 60rpx;
+	display: flex;
+	flex-direction: row;
+	justify-content: left;
+	align-items: center;
+}
+.pp1{
+	font-family: "幼圆";
+}
+.pp2{
+	width: 100%;
+	height: 90rpx;
+	display: flex;
+	flex-direction: row;
+	justify-content: ceter;
+	align-items: center;
+}
+.pp2 image{
+	width: 90rpx;
+	height: 90rpx;
+	margin: 0 auto;
+}
+

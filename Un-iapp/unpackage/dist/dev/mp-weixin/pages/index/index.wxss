@@ -1,0 +1,115 @@
+
+.top {
+	height: 25px;
+	width: 100%;
+	background-color: #FFFFFF;
+}
+.swiper-c{
+	width: 100%;
+	height: 450rpx;
+}
+.swiper-c swiper{
+	width: 100%;
+	height: 100%;
+}
+.swiper-c swiper swiper-item image{
+	width: 100%;
+	height: 100%;
+}
+.swiper-c2{
+	width: 90%;
+	height: 100rpx;
+	margin: 0 auto;
+}
+.swiper-c2 swiper{
+	width: 100%;
+	height: 100%;
+}
+.swiper-c2 swiper swiper-item view{
+	height: 50%;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+.tj{
+	width: 100%;
+	margin: 0 auto;
+}
+.tj view{
+	margin: 0 auto;
+	width: 95%;
+}
+.tj view image{
+	width: 100%;
+	margin: 0 auto;
+}
+.a1{
+	font-size: 15rpx;
+	text-align: center;
+	color: #DD524D;
+	width: 85rpx;
+	height: 65%;
+	border: #DD524D solid 1px;
+	border-radius: 15rpx;
+	margin-left: 20rpx;
+}
+.a2{
+	margin-left: 10rpx;
+	text-align: center;
+	font-size: 15rpx;
+}
+.tuijian{
+	width: 90%;
+	margin: 0 auto;
+	border-radius: 15rpx;
+	margin-top: 10rpx;
+}
+.tit{
+	height: 80rpx;
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: left;
+	align-items: center;
+}
+.tit ._p{
+	font-family: "幼圆";
+	font-weight: 600;
+	font-size: 45rpx;
+	margin-left: 15rpx;
+}
+.b1{
+	width: 600rpx;
+	height: 300rpx;
+	margin: 0 auto;
+	margin-top: 5rpx;
+	border-radius: 15rpx;
+}
+.p1{
+	width: 100%;
+	height: 60rpx;
+
+	display: flex;
+	flex-direction: row;
+	justify-content: left;
+	align-items: center;
+}
+.p1 ._p{
+	font-family: "幼圆";
+}
+.p2{
+	width: 100%;
+	height: 80rpx;
+
+	display: flex;
+	flex-direction: row;
+	justify-content: left;
+	align-items: center;
+}
+.p2 image{
+	width: 80rpx;
+	height: 80rpx;
+}
+.p2 ._p{
+}
+

@@ -1,0 +1,1 @@
+<view><view class="top"></view><view class="bg"></view><view class="xx"><view class="_p">分享小屋</view></view><block wx:for="{{dt}}" wx:for-item="item" wx:for-index="i"><view class="dongtai"><view class="user"><image src="{{item[0]}}"></image><view class="_p">{{item[1]}}</view></view><view class="xiaoxi">{{item[2]}}</view></view></block></view>
